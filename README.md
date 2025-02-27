@@ -1,5 +1,5 @@
-# lengend-game-hack
-lengend dos game hack for macOS
+# legend-game-hack
+legend dos game(金庸群侠传 DOS) hack for macOS
 
 ###### **Edit Game**
  
@@ -45,3 +45,27 @@ Install app
 Open app
 
 Done.
+
+# Legend Game Hack
+Here're some screenshots:
+
+![Game Screenshot](screenshots/1.pic.jpg)
+![Game Screenshot](screenshots/2.pic.jpg)
+![Game Screenshot](screenshots/3.pic.jpg)
+![Game Screenshot](screenshots/4.pic.jpg)
+![Game Screenshot](screenshots/5.pic.jpg)
+![Game Screenshot](screenshots/6.pic.jpg)
+![Game Screenshot](screenshots/7.pic.jpg)
+![Game Screenshot](screenshots/8.pic.jpg)
+![Game Screenshot](screenshots/9.pic.jpg)
+![Game Screenshot](screenshots/10.pic.jpg)
+![Game Screenshot](screenshots/11.pic.jpg)
+![Game Screenshot](screenshots/12.pic.jpg)
+![Game Screenshot](screenshots/13.pic.jpg)
+![Game Screenshot](screenshots/14.pic.jpg)
+![Game Screenshot](screenshots/15.pic.jpg)
+![Game Screenshot](screenshots/16.pic.jpg)
+![Game Screenshot](screenshots/17.pic.jpg)
+![Game Screenshot](screenshots/18.pic.jpg)
+![Game Screenshot](screenshots/19.pic.jpg)
+![Game Screenshot](screenshots/20.pic.jpg)
